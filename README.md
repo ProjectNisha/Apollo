@@ -1,0 +1,2 @@
+This valuation analysis seeks to establish Apollo Tyres' intrinsic value, reflecting its current and future earning potential, as well as the risks and opportunities unique to the tire industry.
+By applying Discounted Cash Flow (DCF) analysis we aim to validate whether Apollo's stock is fairly valued, overvalued, or undervalued in the market, providing insights for both investors and Apollo's strategic decision-makers.
